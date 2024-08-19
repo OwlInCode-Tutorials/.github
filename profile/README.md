@@ -1,4 +1,4 @@
-<h3 align="center">🙋🏻‍♂️ WELCOME TO OWLSINCODE TUTORIALS!</h3>
+<h3 align="center">🙋🏻‍♂️ WELCOME TO OWLSINCODE LESSONS!</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔍 Clear%20and%20Simple%20Lessons-2F2F2F?logo=&style=for-the-badge"><br/>
@@ -9,7 +9,7 @@
 </p>
 
 ### 🎈 About
-At OwlsInCode Tutorials, we're here to make learning Information Technology and Computer Science simple and enjoyable. Our mission is to provide clear, beginner-friendly tutorials that help you build strong foundations in tech. Whether you're new to coding or looking to expand your skills, we've got you covered with practical lessons and real-world examples.
+At OwlsInCode Lessons, we're here to make learning Information Technology and Computer Science simple and enjoyable. Our mission is to provide clear, beginner-friendly tutorials that help you build strong foundations in tech. Whether you're new to coding or looking to expand your skills, we've got you covered with practical lessons and real-world examples.
 
 ### 📚 What We Offer
 
@@ -36,4 +36,4 @@ Have questions or need help? Feel free to reach out to us at [owlsincode@gmail.c
 
 Happy learning!
 
-[OwlsInCode Tutorials](https://www.youtube.com/@OwlsInCode) | [X](https://x.com/OwlsInCode) | [Medium](https://medium.com/@owlsincode) | [GitHub](https://github.com/OwlInCode-Tutorials)
+[YouTube](https://www.youtube.com/@OwlsInCode) | [Slack](https://join.slack.com/t/owlsincode/shared_invite/zt-2p5cs4eds-0x9iGlh01HpGtLUpEMrrfQ) | [X](https://x.com/OwlsInCode) | [Medium](https://medium.com/@owlsincode) | [GitHub](https://github.com/OwlInCode-Lessons)
