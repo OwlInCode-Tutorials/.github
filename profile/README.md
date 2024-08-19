@@ -36,4 +36,4 @@ Have questions or need help? Feel free to reach out to us at [owlsincode@gmail.c
 
 Happy learning!
 
-[YouTube](https://www.youtube.com/@OwlsInCode) | [Discord](https://discord.gg/y3HRgF9w) | [Slack](https://join.slack.com/t/owlsincode/shared_invite/zt-2p5cs4eds-0x9iGlh01HpGtLUpEMrrfQ) | [X](https://x.com/OwlsInCode) | [Medium](https://medium.com/@owlsincode) | [GitHub](https://github.com/OwlInCode-Lessons)
+[YouTube](https://www.youtube.com/@OwlsInCode) | [Discord](https://discord.gg/y3HRgF9w) | [Slack](https://join.slack.com/t/owlsincode/shared_invite/zt-2p5cs4eds-0x9iGlh01HpGtLUpEMrrfQ) | [GitHub](https://github.com/OwlInCode-Lessons) | [X](https://x.com/OwlsInCode) | [Medium](https://medium.com/@owlsincode)
